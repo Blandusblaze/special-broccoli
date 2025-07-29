@@ -1,0 +1,1001 @@
+customerid,subscription_date,platform,churn_type
+293,2024-12-06,Disney+,voluntary
+206,2023-12-09,Hulu,no churn
+116,2024-12-04,Hulu,voluntary
+178,2024-05-28,Hulu,no churn
+404,2023-11-29,Netflix,involuntary
+247,2025-03-15,Netflix,no churn
+291,2024-04-23,Netflix,no churn
+288,2026-02-07,Disney+,involuntary
+41,2025-08-31,Disney+,involuntary
+428,2025-04-04,Hulu,involuntary
+105,2026-01-18,Netflix,voluntary
+255,2025-02-08,Amazon Prime,voluntary
+322,2024-09-30,Netflix,involuntary
+359,2026-04-16,Hulu,involuntary
+424,2025-09-22,Amazon Prime,involuntary
+114,2025-10-26,Hulu,involuntary
+45,2024-08-18,Hulu,involuntary
+359,2025-08-07,HBO Max,involuntary
+106,2025-03-18,Netflix,no churn
+290,2025-08-19,HBO Max,voluntary
+24,2025-05-29,HBO Max,involuntary
+361,2025-10-06,HBO Max,involuntary
+412,2025-01-27,Disney+,no churn
+453,2023-12-16,Disney+,voluntary
+136,2025-04-13,Hulu,no churn
+281,2026-02-18,Netflix,voluntary
+261,2025-03-09,Amazon Prime,no churn
+101,2024-08-31,Netflix,no churn
+6,2024-11-03,Amazon Prime,involuntary
+5,2024-08-11,Netflix,voluntary
+4,2024-01-02,Amazon Prime,involuntary
+396,2024-09-09,Disney+,voluntary
+317,2024-06-29,Disney+,no churn
+271,2025-03-18,Hulu,involuntary
+178,2024-11-18,Disney+,no churn
+119,2025-02-09,Disney+,no churn
+41,2025-12-20,Disney+,voluntary
+28,2025-01-10,Netflix,no churn
+438,2024-09-20,Amazon Prime,involuntary
+389,2024-11-19,HBO Max,no churn
+210,2024-07-29,HBO Max,no churn
+107,2024-10-24,HBO Max,involuntary
+12,2024-06-13,Hulu,involuntary
+238,2025-04-05,HBO Max,voluntary
+314,2024-08-28,Amazon Prime,no churn
+456,2024-11-26,Netflix,voluntary
+488,2024-04-29,Netflix,no churn
+376,2026-01-12,Hulu,no churn
+111,2025-01-10,Amazon Prime,voluntary
+195,2025-06-14,Disney+,voluntary
+242,2025-08-18,Hulu,voluntary
+178,2023-12-30,Amazon Prime,no churn
+127,2024-04-28,HBO Max,voluntary
+283,2025-04-12,Netflix,voluntary
+411,2026-02-11,Amazon Prime,involuntary
+410,2024-08-10,Netflix,voluntary
+402,2026-01-07,Amazon Prime,involuntary
+50,2024-09-14,Disney+,no churn
+372,2025-02-15,Disney+,voluntary
+56,2024-12-27,Hulu,voluntary
+337,2025-04-04,Netflix,voluntary
+8,2024-06-29,Netflix,involuntary
+229,2023-10-28,Disney+,voluntary
+458,2026-02-11,Disney+,voluntary
+245,2025-10-07,Amazon Prime,involuntary
+73,2025-11-03,Netflix,involuntary
+205,2024-06-08,Hulu,no churn
+91,2025-09-09,Amazon Prime,no churn
+479,2025-10-31,Netflix,voluntary
+166,2025-01-11,Amazon Prime,involuntary
+414,2024-09-25,Hulu,no churn
+363,2024-08-20,Netflix,voluntary
+33,2024-10-08,HBO Max,involuntary
+58,2024-07-05,Disney+,voluntary
+357,2024-11-05,Netflix,voluntary
+119,2025-01-04,HBO Max,no churn
+154,2026-03-13,HBO Max,no churn
+71,2026-03-12,HBO Max,no churn
+325,2025-03-24,Disney+,voluntary
+344,2024-05-17,Disney+,involuntary
+388,2025-08-24,Amazon Prime,involuntary
+412,2025-03-02,Amazon Prime,voluntary
+146,2024-06-18,Disney+,no churn
+464,2026-04-01,Hulu,voluntary
+449,2026-02-25,Amazon Prime,no churn
+275,2024-08-05,Disney+,voluntary
+142,2025-12-22,Disney+,involuntary
+69,2025-07-16,Netflix,voluntary
+91,2025-10-08,Hulu,no churn
+251,2024-02-18,Netflix,no churn
+184,2024-04-21,Hulu,involuntary
+405,2023-10-28,Netflix,no churn
+368,2024-10-24,Amazon Prime,no churn
+16,2025-08-17,Netflix,involuntary
+48,2024-11-20,HBO Max,voluntary
+83,2025-05-04,Hulu,voluntary
+419,2025-03-04,Amazon Prime,voluntary
+274,2024-05-22,Disney+,involuntary
+430,2025-06-22,Hulu,no churn
+235,2025-07-22,Disney+,involuntary
+208,2024-07-07,Disney+,no churn
+237,2025-02-17,Disney+,no churn
+474,2024-10-19,Disney+,no churn
+280,2025-03-27,HBO Max,involuntary
+474,2024-07-19,Netflix,involuntary
+436,2024-08-08,HBO Max,no churn
+353,2025-10-14,Amazon Prime,voluntary
+151,2025-01-24,Netflix,no churn
+101,2024-05-11,Disney+,involuntary
+432,2024-09-20,HBO Max,involuntary
+119,2025-07-12,HBO Max,involuntary
+461,2024-03-20,Amazon Prime,voluntary
+75,2025-05-13,Netflix,no churn
+281,2025-03-28,Disney+,voluntary
+148,2024-12-23,HBO Max,involuntary
+358,2024-09-21,Amazon Prime,voluntary
+479,2025-03-25,HBO Max,no churn
+15,2024-08-11,Hulu,involuntary
+235,2025-03-04,HBO Max,voluntary
+142,2025-05-31,Netflix,involuntary
+295,2025-05-16,Disney+,voluntary
+104,2024-07-07,HBO Max,voluntary
+66,2023-10-25,HBO Max,voluntary
+488,2024-08-09,Disney+,no churn
+460,2025-11-27,HBO Max,no churn
+426,2025-05-01,Hulu,involuntary
+228,2024-07-13,Disney+,no churn
+145,2025-08-14,Amazon Prime,involuntary
+371,2024-08-05,Disney+,voluntary
+368,2024-08-30,Disney+,no churn
+390,2025-04-20,HBO Max,involuntary
+221,2024-06-20,Amazon Prime,voluntary
+455,2024-07-19,Disney+,no churn
+139,2024-10-10,Hulu,no churn
+147,2024-11-01,HBO Max,no churn
+50,2024-03-25,Disney+,voluntary
+284,2025-05-10,Hulu,involuntary
+344,2024-06-02,HBO Max,no churn
+96,2025-05-08,Netflix,no churn
+157,2025-04-23,Hulu,voluntary
+470,2025-03-25,Hulu,voluntary
+363,2025-06-15,Netflix,voluntary
+140,2025-08-15,HBO Max,no churn
+466,2025-07-05,Disney+,involuntary
+286,2024-10-10,Hulu,voluntary
+420,2025-02-01,Netflix,voluntary
+35,2024-09-05,Hulu,involuntary
+82,2024-10-02,Amazon Prime,voluntary
+297,2025-10-10,HBO Max,no churn
+172,2025-10-15,Amazon Prime,voluntary
+478,2025-06-04,HBO Max,no churn
+130,2024-01-23,Netflix,voluntary
+352,2024-11-24,Hulu,no churn
+195,2024-10-15,Disney+,involuntary
+118,2026-04-09,Netflix,voluntary
+130,2024-03-28,Amazon Prime,no churn
+158,2025-06-18,Netflix,voluntary
+218,2024-09-28,Hulu,involuntary
+229,2024-04-10,Hulu,voluntary
+177,2024-07-08,Amazon Prime,voluntary
+200,2024-01-09,Disney+,voluntary
+164,2025-10-07,Netflix,involuntary
+187,2024-12-16,Netflix,no churn
+157,2026-03-25,HBO Max,no churn
+34,2025-01-26,HBO Max,no churn
+480,2025-05-20,HBO Max,involuntary
+197,2025-11-04,Hulu,no churn
+479,2025-01-29,Netflix,no churn
+77,2026-03-21,HBO Max,voluntary
+67,2026-06-21,Hulu,no churn
+461,2024-11-23,HBO Max,involuntary
+324,2025-05-19,Hulu,involuntary
+312,2025-12-18,Netflix,voluntary
+180,2024-06-24,HBO Max,involuntary
+223,2025-04-07,Netflix,no churn
+433,2025-10-04,Disney+,voluntary
+33,2025-08-20,Hulu,no churn
+350,2025-06-28,HBO Max,voluntary
+99,2025-12-18,Amazon Prime,involuntary
+333,2024-06-05,Disney+,no churn
+410,2024-12-19,Hulu,involuntary
+389,2024-09-13,HBO Max,involuntary
+218,2025-07-08,Hulu,no churn
+422,2026-02-09,Hulu,involuntary
+129,2024-07-27,HBO Max,no churn
+244,2024-07-30,Amazon Prime,no churn
+446,2025-06-11,Disney+,involuntary
+185,2024-12-06,Hulu,voluntary
+102,2025-01-23,Netflix,no churn
+494,2024-03-20,Amazon Prime,no churn
+428,2025-03-20,Disney+,involuntary
+249,2025-09-29,Amazon Prime,involuntary
+311,2025-05-25,Disney+,voluntary
+56,2024-06-29,Disney+,voluntary
+79,2024-07-02,HBO Max,no churn
+240,2024-06-30,Disney+,no churn
+401,2024-07-20,Amazon Prime,no churn
+378,2024-11-05,HBO Max,voluntary
+440,2024-08-07,Amazon Prime,involuntary
+6,2024-10-08,Hulu,voluntary
+479,2025-01-29,Hulu,involuntary
+104,2024-01-04,Disney+,involuntary
+189,2025-07-14,Netflix,involuntary
+79,2025-01-26,Amazon Prime,involuntary
+190,2026-05-15,Disney+,involuntary
+450,2025-07-17,Hulu,involuntary
+187,2024-08-15,Amazon Prime,no churn
+378,2024-02-12,Amazon Prime,voluntary
+230,2024-07-19,Amazon Prime,no churn
+435,2025-01-04,HBO Max,involuntary
+386,2025-08-08,Netflix,involuntary
+366,2026-03-12,Disney+,involuntary
+108,2025-11-05,Netflix,involuntary
+304,2025-07-15,Amazon Prime,voluntary
+340,2025-09-15,HBO Max,no churn
+79,2024-11-15,HBO Max,no churn
+51,2024-08-02,HBO Max,no churn
+480,2025-04-02,HBO Max,voluntary
+468,2025-03-23,Disney+,voluntary
+340,2025-02-15,HBO Max,voluntary
+253,2025-10-08,HBO Max,no churn
+162,2024-12-19,HBO Max,voluntary
+470,2024-10-04,HBO Max,voluntary
+286,2024-11-02,Netflix,no churn
+131,2024-04-13,HBO Max,no churn
+85,2025-02-16,HBO Max,no churn
+232,2025-10-14,Disney+,no churn
+486,2025-06-02,Disney+,voluntary
+113,2025-05-11,Netflix,no churn
+362,2025-08-01,Disney+,involuntary
+405,2024-07-04,Hulu,no churn
+288,2025-08-13,Hulu,involuntary
+458,2025-08-12,Netflix,involuntary
+170,2024-12-16,HBO Max,involuntary
+405,2024-03-14,Netflix,involuntary
+237,2024-10-31,HBO Max,voluntary
+303,2024-09-05,Hulu,involuntary
+60,2025-02-23,HBO Max,involuntary
+433,2025-05-29,Disney+,no churn
+246,2024-01-08,HBO Max,voluntary
+40,2025-03-11,Hulu,no churn
+348,2024-12-22,Hulu,voluntary
+219,2024-04-30,Netflix,voluntary
+321,2025-08-26,Amazon Prime,voluntary
+30,2024-08-16,Amazon Prime,involuntary
+70,2025-05-17,Hulu,voluntary
+262,2025-09-07,HBO Max,involuntary
+414,2024-11-25,Hulu,involuntary
+227,2026-02-28,Hulu,involuntary
+462,2023-11-01,Disney+,involuntary
+332,2024-06-01,Hulu,no churn
+73,2025-07-04,HBO Max,voluntary
+290,2026-01-16,Amazon Prime,involuntary
+496,2024-05-25,HBO Max,involuntary
+346,2026-03-14,Netflix,voluntary
+89,2026-02-01,HBO Max,voluntary
+138,2025-11-10,HBO Max,voluntary
+211,2025-11-21,Disney+,voluntary
+330,2025-09-25,Amazon Prime,no churn
+308,2025-10-01,HBO Max,voluntary
+282,2024-04-07,HBO Max,involuntary
+366,2026-04-13,Disney+,involuntary
+271,2026-01-22,HBO Max,involuntary
+493,2025-02-18,Amazon Prime,involuntary
+258,2024-08-24,Amazon Prime,involuntary
+138,2025-10-06,HBO Max,involuntary
+235,2024-11-28,Hulu,involuntary
+117,2024-11-13,Amazon Prime,involuntary
+235,2024-10-15,Amazon Prime,voluntary
+166,2024-10-06,Netflix,voluntary
+202,2025-12-23,Netflix,no churn
+146,2024-11-07,Netflix,no churn
+446,2025-03-07,Hulu,involuntary
+321,2025-05-20,Netflix,involuntary
+118,2026-07-15,Amazon Prime,involuntary
+393,2025-04-26,Netflix,involuntary
+268,2024-10-19,Netflix,voluntary
+497,2024-06-13,Netflix,voluntary
+305,2024-06-24,Hulu,voluntary
+177,2024-03-30,Hulu,voluntary
+238,2025-02-16,HBO Max,no churn
+52,2025-05-08,Amazon Prime,voluntary
+36,2025-10-12,Disney+,no churn
+20,2024-10-08,Disney+,voluntary
+207,2026-01-13,Amazon Prime,no churn
+245,2025-08-02,Hulu,no churn
+263,2024-09-30,Netflix,no churn
+11,2025-02-23,HBO Max,no churn
+343,2024-11-04,Netflix,involuntary
+272,2024-02-27,Disney+,voluntary
+496,2024-10-15,Disney+,no churn
+215,2025-10-09,HBO Max,voluntary
+121,2024-02-06,Disney+,involuntary
+83,2025-05-14,Netflix,voluntary
+324,2024-12-27,Netflix,voluntary
+385,2025-12-14,HBO Max,no churn
+288,2025-04-25,Disney+,no churn
+15,2024-09-13,Disney+,involuntary
+256,2025-02-14,HBO Max,involuntary
+400,2025-11-16,Netflix,involuntary
+144,2024-06-06,Amazon Prime,involuntary
+26,2025-12-31,Hulu,involuntary
+443,2023-12-28,Hulu,voluntary
+190,2025-12-16,Disney+,no churn
+158,2025-01-30,Hulu,no churn
+406,2024-09-15,Netflix,voluntary
+51,2024-10-12,HBO Max,involuntary
+500,2024-12-21,Hulu,involuntary
+275,2025-02-22,Netflix,no churn
+471,2024-05-14,Netflix,involuntary
+150,2025-05-14,Disney+,no churn
+120,2023-12-22,HBO Max,involuntary
+473,2024-10-28,Netflix,no churn
+142,2025-04-10,Hulu,no churn
+22,2025-06-01,HBO Max,no churn
+125,2025-02-25,HBO Max,voluntary
+378,2024-04-02,Hulu,no churn
+290,2025-06-30,Amazon Prime,no churn
+326,2025-04-23,Disney+,no churn
+315,2026-01-26,Hulu,no churn
+131,2024-04-07,Disney+,no churn
+278,2024-12-05,Amazon Prime,voluntary
+45,2024-12-18,HBO Max,no churn
+302,2025-03-21,Netflix,voluntary
+276,2026-01-16,Hulu,voluntary
+491,2024-09-05,Amazon Prime,involuntary
+316,2024-07-23,HBO Max,involuntary
+75,2024-08-31,Amazon Prime,no churn
+442,2025-09-13,HBO Max,no churn
+116,2024-11-18,Netflix,involuntary
+383,2024-11-09,Disney+,involuntary
+452,2024-04-30,HBO Max,no churn
+255,2025-04-05,Disney+,no churn
+409,2025-01-15,Disney+,involuntary
+238,2025-11-02,Hulu,involuntary
+271,2025-02-13,Disney+,involuntary
+174,2024-10-18,Amazon Prime,voluntary
+180,2024-07-27,Disney+,involuntary
+100,2025-06-29,Netflix,involuntary
+412,2024-11-15,Netflix,involuntary
+406,2024-09-13,Amazon Prime,voluntary
+25,2024-07-23,Hulu,voluntary
+316,2024-05-03,HBO Max,involuntary
+139,2024-07-20,Hulu,involuntary
+304,2025-06-13,Amazon Prime,involuntary
+98,2025-02-28,Netflix,involuntary
+36,2025-08-02,HBO Max,no churn
+401,2024-10-24,Hulu,voluntary
+379,2023-11-29,HBO Max,involuntary
+307,2024-07-11,Amazon Prime,no churn
+29,2024-06-24,Netflix,voluntary
+40,2025-01-05,Amazon Prime,no churn
+345,2024-08-29,Netflix,voluntary
+421,2024-03-22,Amazon Prime,voluntary
+52,2025-06-05,Hulu,involuntary
+212,2024-04-01,Netflix,voluntary
+60,2024-08-29,HBO Max,involuntary
+278,2024-09-21,Netflix,voluntary
+209,2026-01-10,Disney+,no churn
+207,2025-05-12,Disney+,no churn
+59,2025-08-10,Amazon Prime,voluntary
+157,2026-02-05,Disney+,involuntary
+461,2024-04-20,Netflix,involuntary
+201,2025-02-03,Disney+,no churn
+359,2026-03-28,HBO Max,involuntary
+44,2026-02-02,Netflix,no churn
+280,2024-08-29,Amazon Prime,no churn
+404,2024-01-08,Amazon Prime,involuntary
+94,2025-02-19,Disney+,voluntary
+103,2024-12-17,Amazon Prime,voluntary
+352,2024-07-25,HBO Max,voluntary
+163,2025-09-06,HBO Max,involuntary
+495,2024-04-18,Netflix,involuntary
+382,2026-05-15,HBO Max,no churn
+470,2025-01-30,Disney+,no churn
+438,2025-03-17,Hulu,involuntary
+464,2025-09-30,Netflix,no churn
+234,2024-09-11,Netflix,involuntary
+76,2024-06-19,Hulu,voluntary
+334,2026-06-26,HBO Max,involuntary
+365,2024-08-08,Amazon Prime,voluntary
+91,2025-02-20,Netflix,voluntary
+187,2024-03-26,HBO Max,involuntary
+45,2025-03-29,Amazon Prime,no churn
+401,2025-01-30,Hulu,voluntary
+316,2024-08-16,Amazon Prime,involuntary
+121,2023-12-03,Disney+,involuntary
+358,2024-11-21,Amazon Prime,voluntary
+433,2025-11-09,Amazon Prime,no churn
+299,2024-09-25,Hulu,no churn
+119,2025-06-24,Netflix,no churn
+214,2025-09-27,Netflix,voluntary
+121,2024-01-18,Hulu,voluntary
+161,2025-07-09,Amazon Prime,voluntary
+361,2025-07-13,HBO Max,no churn
+255,2025-08-27,HBO Max,voluntary
+97,2025-03-31,Disney+,involuntary
+138,2024-12-19,Disney+,voluntary
+269,2024-12-22,HBO Max,no churn
+111,2024-09-10,Netflix,involuntary
+326,2024-12-31,Hulu,involuntary
+61,2025-03-12,Amazon Prime,voluntary
+443,2024-05-20,Amazon Prime,voluntary
+447,2025-08-25,HBO Max,no churn
+366,2025-05-02,Disney+,involuntary
+458,2025-08-25,HBO Max,voluntary
+279,2025-05-28,Disney+,no churn
+407,2025-06-18,Netflix,voluntary
+264,2025-08-05,Netflix,no churn
+431,2024-01-22,HBO Max,no churn
+170,2025-02-23,HBO Max,voluntary
+148,2024-09-16,Netflix,involuntary
+214,2025-04-14,HBO Max,voluntary
+375,2025-08-23,Hulu,voluntary
+300,2024-11-26,Netflix,no churn
+434,2024-10-04,Netflix,no churn
+168,2024-01-27,Netflix,voluntary
+217,2024-01-30,Disney+,no churn
+301,2025-08-06,Amazon Prime,involuntary
+356,2024-08-11,Amazon Prime,voluntary
+320,2025-12-07,Hulu,no churn
+117,2024-04-13,Amazon Prime,involuntary
+200,2024-03-06,Hulu,involuntary
+158,2025-05-20,Hulu,no churn
+89,2025-09-06,Hulu,voluntary
+484,2024-11-11,Disney+,voluntary
+182,2025-10-15,HBO Max,no churn
+255,2025-10-23,Amazon Prime,voluntary
+138,2025-09-28,HBO Max,voluntary
+213,2025-04-24,Disney+,voluntary
+421,2025-01-06,Amazon Prime,no churn
+266,2024-11-21,Netflix,voluntary
+397,2024-09-23,Netflix,involuntary
+417,2024-09-22,Amazon Prime,voluntary
+212,2024-09-10,Amazon Prime,voluntary
+221,2024-12-07,Disney+,involuntary
+190,2025-08-23,HBO Max,no churn
+379,2024-02-02,HBO Max,involuntary
+277,2025-03-06,Netflix,no churn
+410,2024-04-20,Disney+,no churn
+304,2024-08-13,Hulu,voluntary
+252,2025-12-18,HBO Max,involuntary
+392,2024-07-17,HBO Max,involuntary
+49,2025-09-12,Disney+,voluntary
+179,2025-01-28,Disney+,involuntary
+425,2025-10-19,Netflix,involuntary
+409,2024-11-27,Amazon Prime,voluntary
+452,2025-01-31,Disney+,involuntary
+424,2025-07-11,Hulu,involuntary
+97,2025-12-09,Netflix,voluntary
+84,2024-07-01,Hulu,no churn
+451,2025-03-07,Amazon Prime,involuntary
+229,2024-06-02,Hulu,no churn
+325,2024-06-12,HBO Max,voluntary
+91,2025-08-18,Netflix,no churn
+356,2024-09-05,Disney+,voluntary
+56,2025-01-22,Amazon Prime,voluntary
+179,2024-04-27,Amazon Prime,voluntary
+332,2024-04-06,Hulu,involuntary
+490,2025-01-02,Disney+,voluntary
+92,2026-02-19,Netflix,voluntary
+66,2024-07-07,HBO Max,voluntary
+43,2025-01-20,Hulu,no churn
+231,2024-01-12,Amazon Prime,no churn
+101,2024-03-27,Disney+,involuntary
+339,2024-07-26,HBO Max,involuntary
+346,2025-07-31,HBO Max,involuntary
+145,2026-07-01,Hulu,voluntary
+391,2025-10-11,Hulu,voluntary
+415,2025-09-05,Hulu,involuntary
+498,2026-03-11,Disney+,voluntary
+400,2025-06-13,HBO Max,no churn
+76,2024-11-11,Disney+,no churn
+368,2024-07-27,Hulu,involuntary
+452,2024-12-18,HBO Max,voluntary
+208,2024-09-03,Netflix,no churn
+379,2023-11-16,Disney+,involuntary
+408,2025-01-22,Hulu,involuntary
+209,2025-08-10,Netflix,voluntary
+112,2024-05-30,Hulu,voluntary
+261,2024-09-20,Disney+,no churn
+430,2024-10-26,HBO Max,voluntary
+53,2025-11-25,Hulu,voluntary
+7,2025-05-23,Disney+,voluntary
+193,2024-01-30,HBO Max,no churn
+492,2024-12-29,Amazon Prime,voluntary
+395,2024-04-19,Disney+,no churn
+263,2024-06-23,HBO Max,no churn
+472,2025-01-04,Netflix,no churn
+479,2025-04-03,Amazon Prime,involuntary
+236,2024-07-22,HBO Max,voluntary
+431,2024-05-05,Netflix,involuntary
+478,2025-11-15,Amazon Prime,no churn
+131,2024-07-12,Netflix,voluntary
+419,2024-09-26,Disney+,involuntary
+348,2024-04-29,Amazon Prime,involuntary
+282,2023-10-30,HBO Max,voluntary
+476,2024-12-07,Disney+,voluntary
+365,2024-04-12,Netflix,voluntary
+460,2025-10-03,Amazon Prime,voluntary
+361,2026-04-09,Hulu,voluntary
+489,2025-01-27,Disney+,involuntary
+249,2025-10-23,Amazon Prime,voluntary
+167,2025-06-15,Hulu,no churn
+18,2025-08-11,Amazon Prime,no churn
+147,2024-04-25,Hulu,no churn
+209,2026-04-16,HBO Max,no churn
+450,2025-09-14,Netflix,no churn
+333,2024-09-08,HBO Max,involuntary
+2,2025-12-22,HBO Max,no churn
+256,2024-11-01,Amazon Prime,involuntary
+148,2024-04-24,Disney+,voluntary
+302,2025-02-21,Disney+,no churn
+264,2025-09-15,HBO Max,voluntary
+358,2024-07-20,HBO Max,involuntary
+336,2025-08-07,Netflix,no churn
+199,2025-07-26,Netflix,involuntary
+231,2024-04-30,HBO Max,involuntary
+233,2025-12-24,Hulu,involuntary
+116,2024-09-20,Disney+,no churn
+287,2025-03-03,HBO Max,involuntary
+87,2025-07-07,Disney+,involuntary
+272,2024-10-20,HBO Max,involuntary
+402,2025-10-08,HBO Max,involuntary
+318,2024-06-08,Disney+,involuntary
+64,2024-04-16,Netflix,involuntary
+256,2025-02-06,HBO Max,no churn
+172,2025-04-04,HBO Max,voluntary
+39,2024-04-02,HBO Max,no churn
+168,2024-04-17,HBO Max,no churn
+11,2024-10-27,HBO Max,no churn
+102,2025-10-10,HBO Max,involuntary
+499,2025-03-01,Hulu,voluntary
+95,2025-02-06,Netflix,voluntary
+122,2024-10-02,Hulu,involuntary
+138,2025-03-17,Hulu,voluntary
+118,2026-02-21,Hulu,voluntary
+266,2024-08-15,Disney+,no churn
+271,2025-03-12,Disney+,involuntary
+27,2024-09-27,HBO Max,voluntary
+172,2025-05-12,Disney+,no churn
+198,2026-01-09,HBO Max,voluntary
+19,2024-01-23,Disney+,no churn
+282,2024-07-17,HBO Max,no churn
+140,2025-10-08,Netflix,involuntary
+458,2025-12-31,Hulu,involuntary
+265,2025-12-07,HBO Max,voluntary
+183,2025-06-22,Disney+,voluntary
+215,2025-08-18,HBO Max,no churn
+297,2025-03-22,Hulu,voluntary
+320,2025-09-12,Amazon Prime,voluntary
+145,2025-10-23,Netflix,no churn
+225,2026-03-11,Amazon Prime,involuntary
+45,2024-10-15,HBO Max,involuntary
+31,2025-09-28,Hulu,no churn
+180,2025-01-22,HBO Max,involuntary
+202,2025-11-16,HBO Max,voluntary
+321,2025-03-25,Netflix,voluntary
+267,2025-12-28,Disney+,voluntary
+199,2025-02-16,Netflix,involuntary
+168,2024-04-13,HBO Max,no churn
+360,2025-09-17,Netflix,voluntary
+190,2026-04-09,Disney+,voluntary
+279,2025-07-30,Netflix,involuntary
+372,2025-03-10,Netflix,voluntary
+408,2024-11-05,Amazon Prime,voluntary
+350,2025-11-18,Netflix,involuntary
+125,2025-10-28,Netflix,no churn
+255,2025-04-03,Hulu,no churn
+205,2024-07-03,Netflix,no churn
+54,2023-11-05,Netflix,voluntary
+329,2024-02-08,Hulu,no churn
+22,2024-08-11,Amazon Prime,voluntary
+94,2025-01-27,Netflix,no churn
+249,2025-01-03,Amazon Prime,involuntary
+186,2025-09-06,Disney+,no churn
+103,2024-12-05,Hulu,involuntary
+4,2024-04-06,Amazon Prime,voluntary
+75,2024-10-04,HBO Max,voluntary
+477,2024-03-23,HBO Max,voluntary
+115,2025-01-03,Disney+,no churn
+35,2025-08-08,Hulu,no churn
+325,2025-03-03,Hulu,involuntary
+344,2024-07-01,Hulu,voluntary
+312,2025-12-21,Hulu,voluntary
+245,2026-05-16,Disney+,no churn
+163,2026-06-07,Netflix,involuntary
+44,2026-02-19,Netflix,involuntary
+142,2025-12-12,HBO Max,no churn
+258,2024-05-18,Amazon Prime,involuntary
+145,2025-08-30,Hulu,voluntary
+321,2025-01-27,Netflix,voluntary
+466,2025-10-20,HBO Max,no churn
+158,2024-10-01,Disney+,no churn
+176,2025-11-28,Netflix,voluntary
+473,2025-03-11,Amazon Prime,voluntary
+52,2025-04-17,Amazon Prime,voluntary
+337,2024-12-01,Amazon Prime,voluntary
+79,2024-10-12,Amazon Prime,involuntary
+16,2025-06-09,Netflix,voluntary
+4,2024-03-05,Netflix,voluntary
+12,2024-06-10,Netflix,voluntary
+417,2024-12-27,HBO Max,no churn
+401,2024-10-27,Amazon Prime,involuntary
+492,2025-01-31,Hulu,no churn
+253,2026-04-22,Hulu,voluntary
+498,2026-04-16,Disney+,voluntary
+6,2024-10-16,Disney+,voluntary
+446,2025-03-04,Hulu,voluntary
+125,2025-07-27,Amazon Prime,voluntary
+45,2024-09-06,Amazon Prime,voluntary
+120,2024-06-15,Disney+,voluntary
+59,2025-12-09,Netflix,involuntary
+119,2025-07-21,Netflix,voluntary
+320,2025-01-20,HBO Max,voluntary
+198,2025-07-20,Amazon Prime,involuntary
+130,2024-05-23,Hulu,voluntary
+361,2025-11-08,Disney+,involuntary
+103,2025-04-18,Amazon Prime,no churn
+310,2025-09-21,Amazon Prime,involuntary
+8,2024-05-30,Amazon Prime,involuntary
+344,2024-05-21,Netflix,voluntary
+376,2025-11-25,Amazon Prime,involuntary
+180,2024-06-02,HBO Max,no churn
+491,2025-02-16,Netflix,no churn
+408,2025-05-11,Amazon Prime,voluntary
+488,2024-09-02,HBO Max,voluntary
+113,2024-12-06,HBO Max,no churn
+112,2024-06-09,Amazon Prime,involuntary
+326,2025-03-26,HBO Max,voluntary
+195,2025-07-28,Disney+,involuntary
+309,2024-08-30,HBO Max,no churn
+59,2025-03-22,Hulu,voluntary
+196,2025-10-30,Netflix,no churn
+190,2025-09-19,Hulu,no churn
+156,2024-12-04,Hulu,voluntary
+409,2024-11-13,Netflix,no churn
+150,2026-02-19,Hulu,no churn
+483,2024-07-04,Amazon Prime,voluntary
+53,2025-09-13,Netflix,involuntary
+123,2024-12-08,HBO Max,no churn
+469,2025-03-30,Hulu,no churn
+43,2024-02-03,Disney+,no churn
+312,2026-01-12,Hulu,voluntary
+182,2025-10-01,HBO Max,no churn
+431,2024-02-03,Netflix,voluntary
+91,2025-03-21,Disney+,involuntary
+269,2025-02-03,Hulu,involuntary
+452,2025-02-06,Disney+,no churn
+132,2024-09-03,Netflix,no churn
+110,2025-12-09,Disney+,voluntary
+200,2024-03-01,Amazon Prime,voluntary
+253,2025-11-12,Netflix,involuntary
+422,2025-11-13,Netflix,involuntary
+339,2024-09-07,Disney+,voluntary
+483,2024-04-04,Amazon Prime,voluntary
+132,2024-04-27,Netflix,involuntary
+92,2026-05-16,Amazon Prime,voluntary
+266,2025-03-31,HBO Max,voluntary
+402,2026-03-15,Disney+,voluntary
+298,2025-02-12,Netflix,voluntary
+8,2024-03-11,Hulu,voluntary
+332,2024-05-31,Netflix,no churn
+385,2025-07-22,Disney+,no churn
+68,2025-06-02,HBO Max,no churn
+377,2024-11-13,Netflix,voluntary
+18,2025-08-26,Netflix,no churn
+407,2025-10-20,HBO Max,voluntary
+234,2024-01-13,Hulu,involuntary
+190,2026-01-11,Netflix,no churn
+370,2026-04-10,Disney+,voluntary
+379,2023-10-03,Disney+,involuntary
+295,2025-06-14,Disney+,no churn
+294,2024-10-13,Amazon Prime,no churn
+241,2025-05-26,Disney+,no churn
+161,2025-05-30,HBO Max,no churn
+201,2024-03-04,Amazon Prime,involuntary
+136,2025-08-29,Netflix,involuntary
+446,2025-04-07,Amazon Prime,involuntary
+469,2025-11-22,Disney+,no churn
+141,2025-05-22,Hulu,no churn
+455,2025-04-05,Hulu,no churn
+51,2024-10-21,Disney+,involuntary
+307,2024-06-02,HBO Max,involuntary
+193,2023-12-23,Netflix,no churn
+193,2023-10-18,Amazon Prime,involuntary
+152,2025-04-12,HBO Max,involuntary
+215,2026-02-19,HBO Max,no churn
+99,2025-04-07,HBO Max,involuntary
+424,2025-06-02,HBO Max,no churn
+290,2025-09-28,Amazon Prime,no churn
+106,2025-03-24,Amazon Prime,voluntary
+442,2025-07-26,Netflix,voluntary
+115,2024-06-28,HBO Max,involuntary
+261,2025-01-25,Amazon Prime,no churn
+8,2024-02-05,HBO Max,no churn
+61,2024-08-13,Disney+,no churn
+433,2025-04-04,Hulu,involuntary
+9,2025-08-29,HBO Max,no churn
+185,2024-09-23,Amazon Prime,no churn
+424,2025-04-17,Amazon Prime,voluntary
+126,2024-09-08,Disney+,voluntary
+102,2025-08-03,Disney+,no churn
+352,2024-06-01,Netflix,voluntary
+176,2025-05-10,Disney+,voluntary
+137,2025-06-11,Hulu,no churn
+456,2024-10-24,Disney+,involuntary
+12,2024-09-01,Hulu,voluntary
+254,2024-12-24,Netflix,involuntary
+220,2025-06-20,Hulu,involuntary
+2,2026-02-23,Amazon Prime,no churn
+76,2025-01-10,Netflix,voluntary
+225,2026-01-06,Disney+,no churn
+32,2025-01-06,HBO Max,involuntary
+196,2025-10-22,Hulu,involuntary
+337,2024-12-25,Netflix,no churn
+94,2025-08-28,Disney+,voluntary
+50,2024-04-30,Disney+,no churn
+426,2025-03-31,Netflix,no churn
+465,2024-10-17,HBO Max,voluntary
+336,2025-06-23,Amazon Prime,no churn
+204,2024-10-31,Hulu,involuntary
+299,2025-01-01,HBO Max,no churn
+478,2026-02-02,HBO Max,involuntary
+299,2025-01-03,HBO Max,voluntary
+481,2024-06-28,Amazon Prime,involuntary
+416,2025-08-22,Amazon Prime,voluntary
+131,2024-05-08,Disney+,no churn
+233,2025-08-05,Amazon Prime,involuntary
+108,2025-12-01,Netflix,voluntary
+457,2026-01-19,Amazon Prime,no churn
+147,2024-05-25,Amazon Prime,no churn
+366,2025-08-18,Netflix,voluntary
+250,2024-05-24,HBO Max,voluntary
+333,2024-07-24,Disney+,involuntary
+210,2023-12-17,Netflix,voluntary
+60,2024-10-06,Netflix,no churn
+327,2025-09-07,Netflix,involuntary
+54,2024-03-11,HBO Max,no churn
+5,2025-02-18,Amazon Prime,involuntary
+377,2024-06-01,HBO Max,voluntary
+187,2024-08-06,Hulu,involuntary
+329,2024-05-01,Netflix,involuntary
+147,2024-04-01,Disney+,voluntary
+75,2024-08-14,Amazon Prime,voluntary
+39,2024-12-27,Netflix,involuntary
+54,2024-06-26,Netflix,no churn
+221,2025-01-24,HBO Max,no churn
+73,2026-01-05,Hulu,no churn
+133,2024-01-28,Disney+,no churn
+17,2025-04-27,Disney+,no churn
+34,2024-10-18,Amazon Prime,involuntary
+281,2025-10-24,Disney+,voluntary
+167,2025-09-15,HBO Max,voluntary
+413,2025-02-28,Disney+,voluntary
+14,2025-01-29,Netflix,voluntary
+16,2025-06-27,Amazon Prime,involuntary
+325,2025-04-07,Hulu,voluntary
+221,2024-11-22,Hulu,voluntary
+264,2025-11-21,Amazon Prime,voluntary
+282,2024-03-28,Amazon Prime,voluntary
+188,2025-01-19,Amazon Prime,voluntary
+112,2024-06-07,Disney+,involuntary
+114,2025-09-03,Hulu,no churn
+455,2024-12-05,Disney+,no churn
+450,2024-12-02,Netflix,no churn
+330,2025-08-30,Amazon Prime,no churn
+181,2024-05-01,Amazon Prime,no churn
+275,2024-11-02,Netflix,voluntary
+161,2025-12-21,Disney+,no churn
+164,2025-09-01,Netflix,no churn
+440,2024-08-16,Netflix,voluntary
+193,2024-04-04,Amazon Prime,no churn
+418,2024-10-05,HBO Max,voluntary
+239,2025-04-07,Hulu,no churn
+419,2024-07-03,HBO Max,voluntary
+103,2025-04-30,Netflix,involuntary
+116,2024-07-25,Amazon Prime,no churn
+148,2024-04-16,Netflix,involuntary
+369,2023-12-10,Disney+,voluntary
+339,2024-11-20,Hulu,involuntary
+118,2025-11-30,HBO Max,no churn
+195,2024-12-03,Hulu,no churn
+343,2023-12-28,Amazon Prime,no churn
+244,2023-11-21,Netflix,voluntary
+421,2024-05-18,Netflix,voluntary
+349,2024-06-08,HBO Max,voluntary
+326,2024-10-30,Amazon Prime,voluntary
+194,2025-01-21,HBO Max,involuntary
+364,2025-12-05,Hulu,voluntary
+1,2025-02-06,Netflix,involuntary
+21,2025-08-09,Amazon Prime,no churn
+314,2024-09-29,Netflix,voluntary
+12,2024-02-04,HBO Max,voluntary
+130,2023-11-18,HBO Max,involuntary
+198,2025-09-20,Disney+,voluntary
+55,2025-09-20,Amazon Prime,voluntary
+49,2025-07-11,Netflix,voluntary
+59,2025-04-21,Disney+,voluntary
+44,2026-01-02,Hulu,involuntary
+285,2025-01-26,Netflix,involuntary
+486,2025-09-19,Netflix,no churn
+397,2025-03-13,HBO Max,involuntary
+74,2025-10-26,Amazon Prime,voluntary
+247,2025-01-24,HBO Max,no churn
+32,2024-12-02,Hulu,involuntary
+386,2025-04-23,Hulu,no churn
+250,2023-10-15,Disney+,voluntary
+250,2024-07-20,Disney+,involuntary
+361,2025-12-28,Amazon Prime,voluntary
+403,2025-02-15,Disney+,involuntary
+276,2026-02-26,Amazon Prime,involuntary
+344,2024-05-10,Disney+,involuntary
+105,2026-03-02,Disney+,voluntary
+193,2023-12-01,Disney+,no churn
+369,2024-07-05,Hulu,involuntary
+305,2025-01-15,Hulu,no churn
+460,2026-04-30,Amazon Prime,no churn
+3,2024-08-26,Hulu,involuntary
+275,2024-09-26,Netflix,voluntary
+195,2025-05-31,Amazon Prime,no churn
+438,2024-07-28,Disney+,involuntary
+6,2025-05-24,Disney+,no churn
+70,2025-02-21,Amazon Prime,voluntary
+292,2025-05-25,Hulu,involuntary
+357,2024-12-14,HBO Max,no churn
+439,2025-07-02,Disney+,involuntary
+142,2025-07-09,Hulu,no churn
+423,2024-12-07,Amazon Prime,voluntary
+82,2024-08-26,Netflix,involuntary
+79,2024-05-19,Amazon Prime,voluntary
+372,2025-07-11,Amazon Prime,voluntary
+289,2024-01-24,Disney+,involuntary
+293,2024-10-24,HBO Max,voluntary
+138,2025-07-06,Amazon Prime,involuntary
+187,2024-03-27,Disney+,involuntary
+370,2026-03-29,Netflix,voluntary
+85,2025-03-07,Hulu,voluntary
+255,2025-01-16,HBO Max,involuntary
+4,2024-03-15,HBO Max,voluntary
+303,2024-05-11,HBO Max,involuntary
+447,2025-06-05,Amazon Prime,involuntary
+246,2024-03-06,Hulu,involuntary
+358,2025-01-24,Disney+,involuntary
+490,2025-02-07,Hulu,involuntary
+76,2024-10-21,Netflix,no churn
+163,2025-11-01,Hulu,voluntary
+437,2025-09-30,HBO Max,no churn
+59,2025-10-18,Disney+,involuntary
+58,2024-05-02,Disney+,voluntary
+144,2025-01-01,Hulu,involuntary
+157,2025-09-10,Amazon Prime,no churn
+446,2025-04-12,Amazon Prime,involuntary
+11,2024-12-30,HBO Max,voluntary
+326,2024-10-11,Netflix,voluntary
+313,2024-07-16,Hulu,no churn
+349,2024-11-02,Netflix,no churn
+44,2025-12-12,HBO Max,voluntary
+305,2024-10-06,Hulu,involuntary
+260,2024-01-06,Hulu,involuntary
+416,2025-11-30,HBO Max,involuntary
+68,2025-10-28,HBO Max,involuntary
+433,2025-03-27,Hulu,involuntary
+170,2025-03-14,Hulu,involuntary
+453,2024-05-31,Disney+,voluntary
+244,2023-12-20,Disney+,voluntary
+438,2025-03-08,Amazon Prime,involuntary
+459,2025-02-16,Hulu,involuntary
+211,2025-10-28,Hulu,voluntary
+134,2024-05-20,Netflix,involuntary
+276,2025-05-26,HBO Max,no churn
+196,2025-09-18,Hulu,involuntary
+270,2024-10-08,Disney+,no churn
+212,2024-04-24,Disney+,involuntary
+71,2025-07-19,Hulu,involuntary
+399,2024-04-07,Disney+,no churn
+132,2024-10-30,Netflix,no churn
+132,2024-04-25,Disney+,no churn
+56,2024-09-05,Hulu,voluntary
+67,2025-12-15,HBO Max,involuntary
+351,2025-01-08,Amazon Prime,voluntary
+79,2024-09-01,HBO Max,no churn
+498,2026-05-24,Hulu,voluntary
+481,2024-07-23,Amazon Prime,involuntary
+344,2024-05-24,Disney+,no churn
+396,2023-12-13,Netflix,no churn
+230,2024-03-16,Netflix,voluntary
+232,2025-05-04,Hulu,no churn
+94,2025-02-13,Disney+,no churn
+172,2025-07-20,Netflix,voluntary
+362,2024-10-28,HBO Max,voluntary
+387,2024-02-26,Netflix,no churn
+280,2024-08-28,Netflix,involuntary
+9,2025-05-09,Hulu,involuntary
+279,2025-08-23,Disney+,involuntary
+227,2026-03-24,Netflix,no churn
+189,2024-09-17,Amazon Prime,voluntary
+294,2024-04-25,Hulu,voluntary
+472,2025-01-04,Hulu,involuntary
+357,2025-04-10,HBO Max,involuntary
+435,2024-10-13,Hulu,voluntary
+454,2024-05-16,Amazon Prime,involuntary
+411,2026-02-13,Netflix,involuntary
+185,2024-12-14,Disney+,voluntary
+7,2024-07-20,Disney+,no churn
+424,2026-01-30,HBO Max,voluntary
+159,2025-03-13,Amazon Prime,no churn
+397,2024-07-09,Disney+,no churn
+485,2025-03-10,Netflix,voluntary
+134,2023-12-14,Disney+,no churn
+469,2025-09-07,Hulu,voluntary
+410,2024-11-24,Hulu,voluntary
+451,2025-04-11,Netflix,no churn
+269,2024-10-03,Disney+,involuntary
+166,2024-12-02,Disney+,involuntary
+287,2024-12-06,Hulu,voluntary
+197,2024-12-29,Hulu,no churn
+368,2025-04-15,Disney+,no churn
+143,2025-01-11,Netflix,involuntary
+479,2025-05-17,Disney+,involuntary
+366,2025-05-23,Hulu,involuntary
+348,2024-06-06,Disney+,voluntary
+265,2026-03-08,HBO Max,no churn
+87,2025-06-25,Disney+,no churn
+352,2024-04-23,Netflix,no churn
+488,2024-08-27,HBO Max,no churn
+96,2025-05-24,Hulu,involuntary
+343,2024-07-27,HBO Max,no churn
+106,2025-07-17,HBO Max,no churn
+254,2025-06-16,HBO Max,no churn
+264,2025-07-10,Disney+,involuntary
+371,2024-03-16,Hulu,involuntary
+484,2024-04-09,Netflix,no churn
+434,2024-09-12,Disney+,voluntary
+431,2024-03-08,Amazon Prime,involuntary
+247,2024-12-05,Disney+,no churn
+320,2025-03-05,HBO Max,involuntary
+238,2025-11-24,HBO Max,involuntary
+53,2025-10-17,Netflix,involuntary
+375,2025-12-31,Netflix,no churn
+70,2025-06-19,HBO Max,involuntary
+8,2024-02-19,Hulu,involuntary
+396,2024-01-05,HBO Max,voluntary
+292,2025-12-15,HBO Max,involuntary
+17,2025-01-06,HBO Max,no churn
+232,2025-03-18,Amazon Prime,no churn
+144,2025-03-17,Netflix,no churn
+6,2025-05-15,Disney+,voluntary
+391,2026-03-22,Amazon Prime,no churn
+479,2024-12-07,Disney+,voluntary
+262,2026-03-14,Hulu,involuntary
+271,2025-08-29,HBO Max,no churn
+219,2024-10-28,HBO Max,no churn
+65,2024-10-28,Hulu,no churn
+358,2024-04-20,Disney+,no churn
+387,2024-03-30,Disney+,voluntary
+366,2025-08-25,Disney+,voluntary
+281,2026-02-16,Hulu,involuntary
+426,2025-07-13,HBO Max,involuntary
+276,2025-08-31,Disney+,no churn
+298,2025-06-15,Amazon Prime,involuntary
+87,2025-11-24,Amazon Prime,voluntary
+140,2025-09-17,HBO Max,involuntary
+80,2025-12-16,Amazon Prime,involuntary
+154,2026-05-17,Disney+,voluntary
+129,2025-02-27,Netflix,voluntary
+102,2025-04-22,Amazon Prime,involuntary
+99,2025-08-04,Netflix,no churn
+493,2025-10-10,Netflix,voluntary
+90,2026-01-21,Netflix,no churn
+117,2024-08-08,Hulu,no churn
+253,2026-01-19,Amazon Prime,voluntary
+297,2025-01-21,Disney+,voluntary
+259,2024-10-20,Amazon Prime,involuntary
+435,2025-04-23,Amazon Prime,voluntary
+488,2024-12-25,Netflix,no churn
+301,2026-02-20,Disney+,involuntary
+378,2024-07-13,Hulu,voluntary
+436,2024-09-23,HBO Max,involuntary
+461,2024-09-27,Hulu,no churn
+282,2024-04-29,Amazon Prime,involuntary
+20,2024-12-10,Hulu,involuntary
+94,2025-07-16,Amazon Prime,involuntary
+191,2023-11-15,Hulu,involuntary
+483,2024-01-02,Amazon Prime,involuntary
+414,2024-12-03,Netflix,no churn
+36,2025-05-07,Amazon Prime,involuntary
+336,2025-01-22,Amazon Prime,involuntary
+230,2024-01-24,Disney+,involuntary
+456,2024-04-23,Netflix,voluntary
+375,2025-03-30,Hulu,voluntary
+306,2025-03-20,Netflix,no churn
+486,2025-12-03,Amazon Prime,voluntary
+268,2025-01-28,Hulu,involuntary
+446,2025-07-02,Disney+,voluntary
+362,2025-03-24,Netflix,no churn
+148,2024-06-11,Hulu,involuntary
+78,2024-05-17,Disney+,involuntary
+223,2024-12-09,Amazon Prime,no churn
+344,2024-01-05,HBO Max,involuntary
